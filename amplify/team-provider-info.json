@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bfcachedemo-dev-50657-authRole",
+      "UnauthRoleArn": "arn:aws:iam::131252624466:role/amplify-bfcachedemo-dev-50657-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::131252624466:role/amplify-bfcachedemo-dev-50657-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-bfcachedemo-dev-50657-deployment",
+      "UnauthRoleName": "amplify-bfcachedemo-dev-50657-unauthRole",
+      "StackName": "amplify-bfcachedemo-dev-50657",
+      "StackId": "arn:aws:cloudformation:eu-central-1:131252624466:stack/amplify-bfcachedemo-dev-50657/36c8eb00-0417-11ee-8f09-024667a8417e",
+      "AmplifyAppId": "d1j4n6uzshh8j8"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1j4n6uzshh8j8",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
